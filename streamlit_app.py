@@ -1,4 +1,4 @@
 import streamlit as st
 
 st.write("Hello!")
-st.write(st.user)
+st.write(st.experimental_user)
